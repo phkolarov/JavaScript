@@ -1,0 +1,10 @@
+section{
+    padding-left: 20px;
+    width: 200px;
+    display: block;
+    border: 1px solid black;
+}
+
+#results {
+    margin-top: 20px;
+}

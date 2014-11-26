@@ -1,0 +1,22 @@
+.img-zoom {
+    width: 400px;
+    height: 300px;
+    transition: width 0.5s, height 0.5s;
+}
+
+.img-zoom:hover{
+        width: 420px;
+        height: 320px;
+}
+
+position:relative;
+transition: width 0.5s, height 0.5s;
+
+}
+
+.ja-typo-img-wrap img:hover{
+    position:relative;
+    width:105%;
+    height:105%;
+
+}
